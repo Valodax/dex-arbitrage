@@ -1,5 +1,5 @@
 // Arbitrage for Uniswap V2 and SushiSwap
-import * as dotenv from "dotenv";
+import dotenv from "dotenv";
 dotenv.config();
 
 const ethers = require("ethers");
